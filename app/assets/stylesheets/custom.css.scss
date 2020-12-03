@@ -1,11 +1,5 @@
 @import "bootstrap/dist/css/bootstrap";
 
-/*
-.navbar-brand {
-    font-size: 3rem;
-}
-*/
-
 .search-area {
   padding-top: 50px;
 }
@@ -26,3 +20,10 @@
     margin-top: 3.5%;
     padding-right: 5px;
 } 
+
+.jumbotron {
+  background-image: asset-url('background.jpg');
+  background-size: cover;
+  height: 550px;
+  margin-top: 20px;
+}
